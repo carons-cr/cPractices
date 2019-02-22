@@ -16,6 +16,6 @@ int main()
   w2 = 1.5 * w1;
   s1 = area(h1, w1);
   s2 = area(h2, w2);
-  printf("area = %6.2f\n", s1 + s2); 
+  printf("sum of the area of two rectangles = %6.2f\n", s1 + s2); 
   return 0;
 }
