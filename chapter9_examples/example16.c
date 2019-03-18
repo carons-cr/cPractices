@@ -17,7 +17,7 @@ int main()
   {
     double x = i + 0.5;
     r = (*y)(x);
-    printf("x = %lf, y = %lf\n", x, r);
+    printf("x = %f, y = %f\n", x, r);
   }
   return 0;
 }

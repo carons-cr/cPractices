@@ -16,3 +16,4 @@ int main()
   printf("x = 45, y = %10.6f\n", cpe(sin, cos, 45*x));
   return 0;
 }
+
